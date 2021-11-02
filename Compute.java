@@ -42,3 +42,26 @@ class PerimeterOfCircle
  
  
 }
+
+// added by Sanu Mony on 2nd Nov 2021
+//new class AreaOfRectangle
+
+class AreaOfRectangle 
+{
+   public static void main(String args[]) 
+ 
+    {   
+ 
+    System.out.println("The value of length:");
+ 
+         double l= 5;
+         
+     System.out.println("The value of Breadth:");
+        
+         double b= 10;
+         
+        double  area=l*b;
+     System.out.println("Area of Rectangle is: " + area);   
+   
+         }
+}
